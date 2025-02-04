@@ -1,2 +1,2 @@
 # hello-world1
-practical
+Martin Pham, SCC
